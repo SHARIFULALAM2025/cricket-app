@@ -8,7 +8,7 @@ import Selected from './Components/SelectedPlayer/Selected'
 import Banner from './Banner/Banner'
 import Footer from './Components/Footer/Footer'
 const fetchPlayer = async () => {
-  const res = await fetch('../public/player.json')
+  const res = await fetch('/player.json')
   return res.json()
 
 }

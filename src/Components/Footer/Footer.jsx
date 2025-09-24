@@ -64,7 +64,7 @@ const Footer = () => {
       </div>
       <div className="absolute -top-16 left-1/2 -translate-x-1/2 shadow-lg sm:w-[60%] md:w-[1200px] p-2.5 border-2 border-[rgba(255,255,255,1)] rounded-lg">
 
-        <div className="max-w-[1200px] mx-auto items-center bg-white text-center bg-[url(../../src/assets/bg-shadow.png)] rounded-lg p-3.5 ">
+        <div className="max-w-[1200px] mx-auto items-center bg-white text-center bg-[url(/src/assets/bg-shadow.png)] rounded-lg p-3.5 ">
           <div className="text-black">
             <h3 className='text-xs'>Subscribe to our Newsletter </h3>
             <p className="text-xs">
